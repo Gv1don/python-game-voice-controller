@@ -1,3 +1,4 @@
 speechrecognition
 keyboard
-pyaudio
+sounddevice
+numpy

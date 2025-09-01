@@ -1,10 +1,10 @@
 # Соответствие голосовых команд и клавиш
 COMMAND_MAP = {
-    "вперёд": "w",
-    "назад": "s",
-    "налево": "a",
-    "направо": "d",
-    "стоп": "stop"
+    "forward": "w",
+    "back": "s",
+    "on left": "a",
+    "on right": "d",
+    "stop": "stop"
 }
 
 def map_command(text):
